@@ -2,6 +2,7 @@ package ejercicio5;
 
 public class Coche {
 	private String modelo;
+	
 	private String marca;
 	
 	public String getModelo() {
